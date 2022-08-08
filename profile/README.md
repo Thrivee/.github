@@ -1,4 +1,4 @@
-# 💍[Thrivee](https://www.wethrivee.com)
+# 🧑🏼‍🎓[Thrivee](https://www.wethrivee.com)
 
 The bridge between students and top-tier opportunities.
 ---
