@@ -3,7 +3,7 @@
 The bridge between students and top-tier opportunities.
 ---
 
-<img width="750" alt="profile picture logo" src="https://user-images.githubusercontent.com/61619525/183485679-87cc1d28-ea94-46a6-adcf-dbb9ff73f4d8.png">
+<img width="850" alt="profile picture logo" src="https://user-images.githubusercontent.com/61619525/183485679-87cc1d28-ea94-46a6-adcf-dbb9ff73f4d8.png">
 <!-- ![4](https://user-images.githubusercontent.com/61619525/183483355-fa6a0362-fcaf-45bd-87d7-714b4d8ca7dc.png) -->
 
 <!--
