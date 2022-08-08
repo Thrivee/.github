@@ -1,4 +1,6 @@
 # 👩🏽‍💻[Thrivee](https://www.wethrivee.com)
+![thriveelogo](https://user-images.githubusercontent.com/61619525/183487736-55988bb1-b406-4b9c-b4b4-b524e0576136.png)
+
 
 The bridge between students and top-tier opportunities.
 ---
